@@ -330,3 +330,4 @@ namespace Cylance.Research.Prangster
     } //class PrngV8
 
 } //namespace Cylance.Research.Prangster
+
